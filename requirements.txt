@@ -1,4 +1,4 @@
-tensorflow
+#tensorflow It is ignored for Mac Apple Silicon (MacBook Air 2021)
 numpy
 matplotlib
 scipy
