@@ -23,6 +23,8 @@
 
 We provide tools to create physical simulations of optical systems, to generate and train neural network models, and to analyze experimental data.
 
+FORK NOTE: This repository is adapted for M1 processor.
+
 # Installation
 
 DeepTrack 2.1 requires at least python 3.6.
